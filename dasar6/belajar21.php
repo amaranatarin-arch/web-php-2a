@@ -12,5 +12,14 @@ echo $barang[2]."<br>";
 echo "<h3>Dengan Foreach</h3>";
 foreach($barang as $item) {
     echo $item."<br>";
+
+}
+// menghapus Pencil
+unset($barang[2]);
+ 
+//menampilkan dengan perulangan
+echo "<h3>Data setelah dihapus</h3>";
+foreach($barang as $item) {
+    echo $item."<br>";
 }
 ?>
