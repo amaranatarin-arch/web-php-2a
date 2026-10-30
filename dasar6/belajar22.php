@@ -2,7 +2,7 @@
 // membuat array asosiatif
 $artikel = [
     "judul" => "Modul Pemorgraman Mobile",
-    "penulis" => "Amara Dwi Natarin",
+    "penulis" => "Rudy Eko Prasetya",
     "jumlah_halaman" => 110
 ];
  
